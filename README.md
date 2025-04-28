@@ -34,3 +34,6 @@ K-Means Clustering
 Visualization of model performance
 
 Confusion matrices, ROC curves, and accuracy evaluation
+
+
+No Contribution allowed because it is an Assignment project for Freecofecamp.org 
