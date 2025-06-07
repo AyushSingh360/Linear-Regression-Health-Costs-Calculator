@@ -29,7 +29,7 @@ Welcome to the **Health Costs Calculator**, a machine learning project that uses
 
 ```bash
 # Clone the repository (optional)
-git clone https://github.com/your-username/Linear-Regression-Health-Costs-Calculator.git
+git clone https://github.com/AyushSingh360/Linear-Regression-Health-Costs-Calculator.git
 
 # Navigate to the project directory
 cd Linear-Regression-Health-Costs-Calculator
