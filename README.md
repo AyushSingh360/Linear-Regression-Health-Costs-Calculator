@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Health Costs Calculator](https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&fit=crop)
+![Health Costs Calculator](/Health.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&fit=crop)
 
 **An intelligent web application that predicts health insurance costs using machine learning**
 
@@ -42,17 +42,17 @@
 ## 🖥️ User Interface
 
 ### 🏠 Landing Page
-![Landing Page](https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![Landing Page](Health.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
 *Clean, modern landing page with gradient backgrounds and animated elements*
 
 ### 📝 Input Form
-![Input Form](https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![Input Form](Health.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
 *Intuitive form with real-time validation and BMI calculation*
 
 ### 📊 Results Dashboard
-![Results](https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![Results](Health1.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
 *Comprehensive results with cost breakdown and risk analysis*
 
